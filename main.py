@@ -1,4 +1,3 @@
-#By Gladwin Paul
 import turtle
 def schlogo(col,val):
     s = turtle.Turtle()
